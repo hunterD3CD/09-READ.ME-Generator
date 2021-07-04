@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterD3CD/09-READ.ME-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hunterD3CD/09-READ.ME-Generator/issues"
+  },
+  "homepage": "https://github.com/hunterD3CD/09-READ.ME-Generator#readme"
 }
