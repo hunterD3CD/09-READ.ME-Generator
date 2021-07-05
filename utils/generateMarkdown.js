@@ -18,35 +18,34 @@ function generateMarkdown(data) {
   [![license](https://img.shields.io/badge/license-${data.license}-blue)](https://shields.io)
 
   ### Table of Contents:
-    1. [Description](https://github.com/hunterD3CD/09-READ.ME-Generator#description)
-    2. [Installation](https://github.com/hunterD3CD/09-READ.ME-Generator#installation)
-    3. [Usage](https://github.com/hunterD3CD/09-READ.ME-Generator#usage)
-    4. [Credits](https://github.com/hunterD3CD/09-READ.ME-Generator#credits)
-    5. [License](https://github.com/hunterD3CD/09-READ.ME-Generator#license-1)
-    6. [Contributing](https://github.com/hunterD3CD/09-READ.ME-Generator#contributing)
-    7. [Tests](https://github.com/hunterD3CD/09-READ.ME-Generator#test)
-    [google link] (https://www.google.com)
+    1. [Description](#description)
+    2. [Installation](#installation)
+    3. [Usage](#usage)
+    4. [Credits](#credits)
+    5. [License](#license-1)
+    6. [Contributing](#contributing)
+    7. [Tests](#tests)
     
-  ## Description:
+  ## Description: <a name="description"></a>
   ${data.description}
 
-  ## Installation:
+  ## Installation: <a name="installation"></a>
   ${data.installation}
 
-  ## Usage:
+  ## Usage: <a name="usage"></a>
   ${data.usage}
 
-  ## Credits:
+  ## Credits: <a name="credits"></a>
   ${data.credits}
 
-  ## License:
+  ## License: <a name="license-1"></a>
   ${data.license}
 
-  ## Contributing: 
+  ## Contributing: <a name="contributing"></a>
   ${data.contributing}
 
-  ## Test:
-  ${data.test}
+  ## Tests: <a name="tests"></a>
+  ${data.tests}
 `;
 }
 
