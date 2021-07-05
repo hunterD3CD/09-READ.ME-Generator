@@ -43,20 +43,6 @@ const questions = [
   // question 7: license
   {
     name: "license",
-    type: "input",
-    message: "what is the project about?",
-  },
-  // question 8: badges
-
-  // question 9: constributing
-  {
-    name: "constributing",
-    type: "input",
-    message: "how should other developers to contribute this project?",
-  },
-  // question 10: tests
-  {
-    name: "tests",
     type: "checkbox",
     message: "please check your license below",
     choices: [
@@ -66,8 +52,21 @@ const questions = [
       "MIT License",
       "Boost Software License 1.0",
       "The Unlicense",
-      "none",
-    ],
+      "none",]
+  },
+  // question 8: badges
+
+  // question 9: constributing
+  {
+    name: "contributing",
+    type: "input",
+    message: "how should other developers to contribute this project?",
+  },
+  // question 10: tests
+  {
+    name: "tests",
+    type: "input",
+    message: "How to test the project?",
   },
 ];
 
