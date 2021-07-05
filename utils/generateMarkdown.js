@@ -9,7 +9,7 @@ function generateMarkdown(data) {
 
   ## Demo:
   [Demo video link](https://drive.google.com/file/d/1MtoK5FBLl3-TtHBgO6tgibzepQIthB59/view)
-  [Here's a walkthrough video that demonstrates its functionality.](./)
+  [Here's a walkthrough video that demonstrates its functionality.](./demo.gif)
 
   ### Table of Contents:
     1. [Description](#description)
