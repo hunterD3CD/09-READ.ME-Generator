@@ -65,6 +65,18 @@ const questions = [
     type: "input",
     message: "How to test the project?",
   },
+  // question 11: question github username
+  {
+    name: "github",
+    type: "input",
+    message: "what is your github username?",
+  },
+  // question 12: question email
+  {
+    name: "email",
+    type: "input",
+    message: "what is your email?",
+  },
 ];
 
 console.log(questions);

@@ -1,34 +1,36 @@
-# lfkawef
+# lkjfwkla
 
   ## License:
-  [![license](https://img.shields.io/badge/license-GNU AGPLv3-blue)](https://shields.io)
+  [![GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense,none](https://img.shields.io/badge/license-GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense,none-blue)](https://shields.io)
+  
 
   ### Table of Contents:
     1. [Description](#description)
     2. [Installation](#installation)
     3. [Usage](#usage)
     4. [Credits](#credits)
-    5. [License](#license-1)
-    6. [Contributing](#contributing)
-    7. [Tests](#tests)
+    5. [Contributing](#contributing)
+    6. [Tests](#tests)
+    6. [Question](#question)
     
   ## Description: <a name="description"></a>
-  jflkwef
+  jlfwkae
 
   ## Installation: <a name="installation"></a>
-  jflwekaf
+  fwaejlkf
 
   ## Usage: <a name="usage"></a>
-  jflkwe
+  jlkfwae
 
   ## Credits: <a name="credits"></a>
-  jflwkef
-
-  ## License: <a name="license-1"></a>
-  GNU AGPLv3
+  fjlwke
 
   ## Contributing: <a name="contributing"></a>
   [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests: <a name="tests"></a>
-  fjlwaek
+  lfwkeaf
+
+  ## Question: <a name="question"></a>
+  * Github: [hunterD3CD](https://github.com/hunterD3CD)
+  * Email: hunterd3c@gmail.com 

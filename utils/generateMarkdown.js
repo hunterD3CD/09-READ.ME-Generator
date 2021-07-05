@@ -1,30 +1,19 @@
-// // TODO: Create a function that returns a license badge based on which license is passed in
-// // If there is no license, return an empty string
-// function renderLicenseBadge(license) {}
-
-// // TODO: Create a function that returns the license link
-// // If there is no license, return an empty string
-// function renderLicenseLink(license) {}
-
-// // TODO: Create a function that returns the license section of README
-// // If there is no license, return an empty string
-// function renderLicenseSection(license) {}
-
-// TODO: Create a function to generate markdown for README
+// ----------------------------- Create a function to generate markdown for README -----------------
 function generateMarkdown(data) {
   return `# ${data.title}
 
   ## License:
-  [![license](https://img.shields.io/badge/license-${data.license}-blue)](https://shields.io)
+  [![${data.license}](https://img.shields.io/badge/license-${data.license}-blue)](https://shields.io)
+  
 
   ### Table of Contents:
     1. [Description](#description)
     2. [Installation](#installation)
     3. [Usage](#usage)
     4. [Credits](#credits)
-    5. [License](#license-1)
-    6. [Contributing](#contributing)
-    7. [Tests](#tests)
+    5. [Contributing](#contributing)
+    6. [Tests](#tests)
+    6. [Question](#question)
     
   ## Description: <a name="description"></a>
   ${data.description}
@@ -38,14 +27,15 @@ function generateMarkdown(data) {
   ## Credits: <a name="credits"></a>
   ${data.credits}
 
-  ## License: <a name="license-1"></a>
-  ${data.license}
-
   ## Contributing: <a name="contributing"></a>
   [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests: <a name="tests"></a>
   ${data.tests}
+
+  ## Question: <a name="question"></a>
+  * Github: [${data.github}](https://github.com/${data.github})
+  * Email: ${data.email} 
 `;
 }
 
