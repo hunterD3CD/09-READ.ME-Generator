@@ -1,9 +1,9 @@
 # readme generator
 
   ## License badge:
-  [![license](https://img.shields.io/badge/license-none-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT License,none-blue)](https://shields.io)
   ## License note:
-  none
+  MIT License,none
 
   ### Table of Contents:
     1. [Description](#description)
@@ -21,7 +21,7 @@
   What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
   ## Usage: <a name="usage"></a>
-  Provide instructions and examples for use. Include screenshots as needed. 
+  Provide instructions and examples for use. Include screenshots as needed.
 
   ## Credits: <a name="credits"></a>
   List your collaborators, if any, with links to their GitHub profiles.
