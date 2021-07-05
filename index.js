@@ -43,17 +43,21 @@ const questions = [
   // question 7: license
   {
     name: "license",
-    type: "checkbox",
+    type: "input",
     message: "what is the project about?",
   },
   // question 8: badges
 
   // question 9: constributing
-
+  {
+    name: "constributing",
+    type: "input",
+    message: "how should other developers to contribute this project?",
+  },
   // question 10: tests
   {
     name: "tests",
-    type: "input",
+    type: "checkbox",
     message: "please check your license below",
     choices: [
       "GNU AGPLv3",
@@ -67,13 +71,23 @@ const questions = [
   },
 ];
 
-console.log (questions)
+console.log(questions);
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
+// -----------------------------------STEP 3: Create a function to write README file ---------------------------------
+function writeNewFile(fileName, data) {
+  fs.writeFile(fileName, data, function (err) {
+    if (err) throw error;
+    console.log("the readme file is created successfully.");
+  });
+}
 
-// // TODO: Create a function to initialize app
-// function init() {}
+// -----------------------------------STEP 4: Create a function to initialize app
+function init() {
+  inquirer.prompt(questions).then(function (userInput) {
+    console.log(userInput);
+  });
+  writeNewFile("README.md", generateMarkdown(userInput));
+}
 
-// // Function call to initialize app
-// init();
+// Function call to initialize app
+init();
