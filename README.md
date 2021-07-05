@@ -1,9 +1,9 @@
-# lkfwaelkfa
+# ddelk
 
   ## License:
-  [![license](https://img.shields.io/badge/license-Apache License 2.0-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense-blue)](https://shields.io)
 
-  ## Table of Contents:
+  ### Table of Contents:
     1. [Description](https://github.com/hunterD3CD/09-READ.ME-Generator#description)
     2. [Installation](https://github.com/hunterD3CD/09-READ.ME-Generator#installation)
     3. [Usage](https://github.com/hunterD3CD/09-READ.ME-Generator#usage)
@@ -13,22 +13,22 @@
     7. [Tests](https://github.com/hunterD3CD/09-READ.ME-Generator#tests)
     
   ## Description:
-  flkweaflawk;ewalkl;wa
+  lkfaweflwka
 
   ## Installation:
-  lfwaelkflawef
+  lkjkl
 
   ## Usage:
-  jflakwejfklawefla
+  falwekf
 
   ## Credits:
-  jlfkweajflwka
+  jflkwef
 
   ## License:
-  Apache License 2.0
+  GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense
 
   ## Contributing: 
-  flweakfjalfk
+  fwelaekfwla;f
 
   ## Test:
   undefined

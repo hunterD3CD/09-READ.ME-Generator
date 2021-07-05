@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   ## License:
   [![license](https://img.shields.io/badge/license-${data.license}-blue)](https://shields.io)
 
-  ## Table of Contents:
+  ### Table of Contents:
     1. [Description](https://github.com/hunterD3CD/09-READ.ME-Generator#description)
     2. [Installation](https://github.com/hunterD3CD/09-READ.ME-Generator#installation)
     3. [Usage](https://github.com/hunterD3CD/09-READ.ME-Generator#usage)
