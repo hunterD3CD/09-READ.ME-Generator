@@ -5,6 +5,7 @@ const inquirer = require("inquirer");
 const Choice = require("inquirer/lib/objects/choice");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+
 //--------------------------------STEP 2: Create an array of questions for user input--------------------------------------
 const questions = [
   // question 1: your project title
