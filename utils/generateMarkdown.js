@@ -14,6 +14,38 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## License:
+  [![license](https://img.shields.io/badge/license-${data.licensing}-blue)](https://shields.io)
+
+  ## Table of Contents:
+    *[Description] (#description)
+    *[Installation] (#installation)
+    *[Usage] (#usage)
+    *[Credits] (#credits)
+    *[License] (#license)
+    *[Contributing] (#constributing)
+    *[Tests] (#tests)
+    
+  ## Description:
+  ${data.description}
+
+  ## Installation:
+  ${data.installation}
+
+  ## Usage:
+  ${data.usage}
+
+  ## Credits:
+  ${data.credits}
+
+  ## License:
+  ${data.license}
+
+  ## Contributing: 
+  ${data.contributing}
+
+  ## Test:
+  ${data.test}
 `;
 }
 

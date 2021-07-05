@@ -81,12 +81,12 @@ function writeNewFile(fileName, data) {
   });
 }
 
-// -----------------------------------STEP 4: Create a function to initialize app
+// -----------------------------------STEP 4: Create a function to initialize app --------------------------------
 function init() {
   inquirer.prompt(questions).then(function (userInput) {
-    console.log(userInput);
+    // console.log(userInput);
+    writeNewFile("README.md", generateMarkdown(userInput));
   });
-  writeNewFile("README.md", generateMarkdown(userInput));
 }
 
 // Function call to initialize app
