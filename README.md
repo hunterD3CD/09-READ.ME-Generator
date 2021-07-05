@@ -1,9 +1,13 @@
-# readme generator
+# README GENERATOR
 
   ## License badge:
-  [![license](https://img.shields.io/badge/license-MIT License,none-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT License-blue)](https://shields.io)
   ## License note:
-  MIT License,none
+  MIT License
+
+  ## Demo:
+  [Demo video link](https://drive.google.com/file/d/1MtoK5FBLl3-TtHBgO6tgibzepQIthB59/view)
+  [Here's a walkthrough video that demonstrates its functionality.](./demo.gif)
 
   ### Table of Contents:
     1. [Description](#description)
