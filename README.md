@@ -1,8 +1,9 @@
-# lkjfwkla
+# readme generator
 
-  ## License:
-  [![GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense,none](https://img.shields.io/badge/license-GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense,none-blue)](https://shields.io)
-  
+  ## License badge:
+  [![license](https://img.shields.io/badge/license-none-blue)](https://shields.io)
+  ## License note:
+  none
 
   ### Table of Contents:
     1. [Description](#description)
@@ -14,22 +15,22 @@
     6. [Question](#question)
     
   ## Description: <a name="description"></a>
-  jlfwkae
+  Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
   ## Installation: <a name="installation"></a>
-  fwaejlkf
+  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
   ## Usage: <a name="usage"></a>
-  jlkfwae
+  Provide instructions and examples for use. Include screenshots as needed. 
 
   ## Credits: <a name="credits"></a>
-  fjlwke
+  List your collaborators, if any, with links to their GitHub profiles.
 
   ## Contributing: <a name="contributing"></a>
   [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests: <a name="tests"></a>
-  lfwkeaf
+  Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
   ## Question: <a name="question"></a>
   * Github: [hunterD3CD](https://github.com/hunterD3CD)
