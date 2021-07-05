@@ -1,4 +1,4 @@
-# lkjf
+# lfkawef
 
   ## License:
   [![license](https://img.shields.io/badge/license-GNU AGPLv3-blue)](https://shields.io)
@@ -13,22 +13,22 @@
     7. [Tests](#tests)
     
   ## Description: <a name="description"></a>
-  flkwae
+  jflkwef
 
   ## Installation: <a name="installation"></a>
-  jflkwae
+  jflwekaf
 
   ## Usage: <a name="usage"></a>
-  lkfwe
+  jflkwe
 
   ## Credits: <a name="credits"></a>
-  jflkaw
+  jflwkef
 
   ## License: <a name="license-1"></a>
   GNU AGPLv3
 
   ## Contributing: <a name="contributing"></a>
-  jflwea
+  [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests: <a name="tests"></a>
-  jfweal
+  fjlwaek

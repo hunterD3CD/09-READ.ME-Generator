@@ -52,16 +52,13 @@ const questions = [
       "MIT License",
       "Boost Software License 1.0",
       "The Unlicense",
-      "none",]
+      "none",
+    ],
   },
   // question 8: badges
 
-  // question 9: constributing
-  {
-    name: "contributing",
-    type: "input",
-    message: "how should other developers to contribute this project?",
-  },
+  // question 9: contributing
+
   // question 10: tests
   {
     name: "tests",

@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contributing: <a name="contributing"></a>
-  ${data.contributing}
+  [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## Tests: <a name="tests"></a>
   ${data.tests}
