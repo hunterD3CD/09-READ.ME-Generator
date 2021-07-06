@@ -9,7 +9,8 @@
   [Demo video link](https://drive.google.com/file/d/1MtoK5FBLl3-TtHBgO6tgibzepQIthB59/view)
   [Here's a walkthrough video that demonstrates its functionality.](./demo.gif)
 
-  
+  ## Table
+  * [Description](#description)
     
   ## Description 
   Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
