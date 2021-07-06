@@ -9,7 +9,7 @@
   [Demo video link](https://drive.google.com/file/d/1MtoK5FBLl3-TtHBgO6tgibzepQIthB59/view)
   ![Here's a walkthrough video that demonstrates its functionality.](demo.gif)
 
-  ## Table
+  ## Table:
   1 [Description](#description)
   2 [Installation](#installation)
   3 [Usage](#usage)
