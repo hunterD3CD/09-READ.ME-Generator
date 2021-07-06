@@ -10,13 +10,13 @@
   [Here's a walkthrough video that demonstrates its functionality.](./demo.gif)
 
   ### Table of Contents:
-    1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [Credits](#credits)
-    5. [Contributing](#contributing)
-    6. [Tests](#tests)
-    6. [Question](#question)
+    * [Description](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Question](#question)
     
   ## Description 
   Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
