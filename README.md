@@ -1,7 +1,7 @@
 # README GENERATOR
 
   ## License badge:
-  [![license](https://img.shields.io/badge/license-MIT License-blue)](https://shields.io)
+  [license](https://img.shields.io/badge/license-MIT License-blue)](https://shields.io)
   ## License note:
   MIT License
 
