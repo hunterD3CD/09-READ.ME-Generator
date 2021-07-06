@@ -11,14 +11,14 @@ function generateMarkdown(data) {
   [Demo video link](https://drive.google.com/file/d/1MtoK5FBLl3-TtHBgO6tgibzepQIthB59/view)
   [Here's a walkthrough video that demonstrates its functionality.](./demo.gif)
 
-  ### Table of Contents:
-    1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [Credits](#credits)
-    5. [Contributing](#contributing)
-    6. [Tests](#tests)
-    6. [Question](#question)
+  ## Table of Contents:
+    * [Description](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Question](#question)
     
   ## Description:
   ${data.description}
