@@ -20,25 +20,25 @@ function generateMarkdown(data) {
     6. [Tests](#tests)
     6. [Question](#question)
     
-  ## Description: <a name="description"></a>
+  ## Description:
   ${data.description}
 
-  ## Installation: <a name="installation"></a>
+  ## Installation: 
   ${data.installation}
 
-  ## Usage: <a name="usage"></a>
+  ## Usage:
   ${data.usage}
 
-  ## Credits: <a name="credits"></a>
+  ## Credits: 
   ${data.credits}
 
-  ## Contributing: <a name="contributing"></a>
+  ## Contributing:
   [Contributor Covenant](https://www.contributor-covenant.org/)
 
-  ## Tests: <a name="tests"></a>
+  ## Tests:
   ${data.tests}
 
-  ## Question: <a name="question"></a>
+  ## Question: 
   * Github: [${data.github}](https://github.com/${data.github})
   * Email: ${data.email} 
 `;
